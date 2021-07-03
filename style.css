@@ -1,0 +1,55 @@
+body{
+    margin: 0px;
+}
+.section{
+    height: 400px;
+    margin-bottom: 0px 0px 50px 0px;
+}
+#name{
+    color:tomato ;
+}
+#top-banner{
+    background-image: url("images/bg1.png");
+    background-size: 100%;
+}
+.half-width{
+    width: 40%;
+    height: 100%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    height: 100%;
+    width: 100%;
+    padding: 0px;
+    
+    
+}
+#bio-banner{
+    background-image: url("images/bg2.png");
+    background-size: 100%;
+
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 122, 166, 0.89), rgba(255, 71, 141, 0.938));
+    border: 2px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 100;
+}
+#latesth1{
+    text-align: center;
+}
+.latest-work{
+    float:left;
+    width: 33%;
+   
+}
+.latest-work img{
+    height: 100%;
+    width: 100%;
+    border: 5px solid #555; 
+}
