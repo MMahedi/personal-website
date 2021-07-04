@@ -46,10 +46,21 @@ body{
 .latest-work{
     float:left;
     width: 33%;
-   
+   margin-bottom: 20px;
 }
 .latest-work img{
     height: 100%;
     width: 100%;
     border: 5px solid #555; 
+}
+.clients-comments{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
+.last{
+    background-color: crimson;
+    margin: 60px;
+    padding: 20px;
 }
